@@ -13,5 +13,6 @@ This is a 3D solar system simulation built using **React**, **Three.js**, and **
 
 ```bash
 git clone https://github.com/akashguptacodes/solar-system.git
+cd solar-system
 npm install
 npm run dev
